@@ -1,4 +1,4 @@
-name: CI
+name: Demo Workflow for GitHub ARC
 
 on:
   workflow_dispatch
